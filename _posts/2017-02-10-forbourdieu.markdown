@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "故纸堆：单幕剧"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"An Imaginary Dialouge between Bourdieu and Xiaobu\""
 date:       2017-01-20 12:00:00
-author:     "Hux"
+author:     "罗小布"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 罗小布的创作
