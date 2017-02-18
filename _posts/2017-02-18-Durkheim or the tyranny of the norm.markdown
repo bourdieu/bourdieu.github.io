@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Durkheim or the tyranny of the norm ..."
-subtitle:   " \"涂尔干，或规则的保证\""
+subtitle:   " \"涂尔干，或规则的暴政\""
 date:       2017-01-28 12:00:00
 author:     "罗小布"
 header-img: "img/in-post/bourdieu1.jpg"
@@ -19,6 +19,7 @@ What do you think of Durkheim's anomie concept? We try to get our thoughts into 
 Hope to have your opinion on it. 
 
 **Ophélie**
+
 ---
 
 Durkheim had, rightly so, the desire to make sociology a rigorous discipline, of sufficient rigor to enable it to compete in its methods with traditional scientific disciplines. All his work bears witness to this desire for rigor. But this does not of course prevent him from remaining also the interpreter of his deepest convictions. 
