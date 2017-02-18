@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Habitus"
+subtitle:   " \"生存心态\""
+date:       2017-01-28 12:00:00
+author:     "罗小布"
+header-img: "img/in-post/bourdieu1.jpg"
+tags:
+    - 对话布尔迪厄
+---
+
+Hi Pierrot, 
+
+Can you explain your concept of habitus? 
+Thank you in advance. 
+
+**A colleague**
+
+---
+
+Habit is what drives us to behave as well as we behave. For example, the fact that you call me a "Salut Pierrot" corresponds to what you usually call a choice on your part. And if you were questioned about this choice, you would probably be able to provide the "reasons". What do I know: a desire to show sympathy for me? The adoption of a tone intended to translate professional complicity? A concern not to be told? ... 
+
+However, beyond the reasons we give ourselves to act - and which, more often than not, justify our past actions more than they motivate our actions There are deeper and more hidden determinations that explain both the choices we make and the reasons for which we link them. 
+
+Do we have a free will allowing an instance of our self to operate freely a choice between the various possibilities that our consciousness apprehends? This is a philosophical question which permits infinite digressions, but which is of a meager help to explain the behavior. Are we subjected to unconscious influences which, unbeknownst to us, guide our thoughts and actions? The same could be said as far as the eye can see. In fact, what is important is to try to account for what moves us. 
+
+I have assumed that the driving force of our behavior consists mainly of a kind of sediment in our whole history, a sediment in which, therefore, dispositions would incline us to this or that thought, this or that act. But the process by which these provisions weigh them down, so that what influences us is not limited to our history, but also includes this reified history acting. We are our history in action, but we are also, simultaneously, this action entering our history. This hypothetical place to which we could symbolically attribute the explanation of behavior, I called habitus. This obviously does not mean that there is in us something concrete that corresponds to it; At most, the word habitus is used to designate the complex set of processes by which we are both acting and acting. 
+
+If you want more details about this notion, I refer you to what I wrote in particular in "*Le Sens pratique*", Éditions de Minuit, 1980, pp. 87 and ss.
+
+**Pierre Bourdieu**

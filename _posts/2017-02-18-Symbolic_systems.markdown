@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Symbolic systems"
+subtitle:   " \"符号系统\""
+date:       2017-01-28 12:00:00
+author:     "罗小布"
+header-img: "img/in-post/bourdieu1.jpg"
+tags:
+    - 对话布尔迪厄
+---
+
+Hello, 
+
+Faced with the ideological vacuum of the political elites, faced with the disenchantment of France from below, can we envisage the conditions for the emergence of a "symbolic system" to rehabilitate politics? 
+
+**Clement**
+
+---
+
+I do not think it is correct to speak of an "ideological vacuum of political elites". At a time when it was customary to call the supposedly contradictory political discourse that justified the most mediated political and military opposition, common opinion did not doubt the existence of consistent and comprehensive ideologies, Speak like logicians) able to answer many questions that life could ask. Now, if there is something that deserves the name of ideology, it is rather on the side of these shared prenotions which forge the habitus and confer its legitimacy on the most general "hubris". Already then, the ideology was more on the side of what had in common what, by reference to political oppositions, was called "ideologies". Now that these "ideologies" have allegedly disappeared (one of them would not have supplanted the other?), Ideological pre-eminence could only win. It is true that it is in her non-consciousness that she finds the best to impose herself. In a society that obeys a very circumscribed ideology (and therefore the choices remain confined within the limits of a possible circumscribed one), the political elites must undoubtedly be Their conformity to ideology. 
+
+That said, there is something like a disillusionment with politics. But do not speak of "France from below." Is there nothing more explicitly ideological than that expression which has been decided upon by those who, because of the field in which they Position and the habitus they have acquired-lend it naively the function of expressing commiseration, whereas -objectively it confirms a relation of domination through the metaphor physically most significant, that of the height Of the sky looking at the ground. The audacity represented by the use of such an expression, which in other times would have been understood as a challenge to the ideal of democratic equality, says much about the meaning of the ideological evolution that the world Since the supposed disappearance of "ideologies". 
+
+It seems to me worth while to emphasize that disenchantment with politics has scarcely any affinity with the disenchantment with which any attempt at the elucidation of the social world passes. Indeed, the lost illusions are most often part of a process of constructing new illusions, often inverse to the former, and better made to disseminate a sort of political "laissez-faire" functioning according to the same logic as the "let - economic. One of the most obvious manifestations of this logic undoubtedly resides in the success of so-called "participatory" approaches. The latter, believing that the democratic virtues of representative democracy are insufficient, advocate "direct" policy dialogue with those who have the "citizen" courage to take an interest in political problems. And so we see politicians boasting of informal contacts (which they do not hesitate to call a process of "contractualisation") which, in reality, reinforce the power of influence of the lobbies. To be interested is presented in these circumstances as a positive attitude and citizen: it is difficult to forget that those who are interested may have interest to be interested. The inability to go to a place of political debate depends on many reasons, including the idea that there is nothing to be said about it, an idea that is likely to be reinforced by the technocratic discourse on governance *(cf. This is what I wrote in "Political Representation: Elements for a Theory of the Political Field" in Proceedings of the Social Science Research No. 36/37 of February / March 1981, p. Conditions for acquiring a political opinion, Sociological questions, Éditions de Minuit, 1984, pp. 222-235)*. The neologism "governance" seems to have the function of accrediting the idea that the action of governing, escaping in some way from its political nature, could meet objective criteria of performance. The choice of a termination in -ance is not trivial: it gives the consistency of duration to what is no longer merely the act of governing, but also and above all a practice in which - because of the participatory logic - the decision-maker is no longer alone in being involved. 
+
+To rehabilitate politics, we must not - as the media would like to believe - obtain policies that are more respectful of moral values ​​and more effective in an art whose goals were set. On the contrary, it is necessary to reflect on the conditions that encourage politicians to take into account certain moral values ​​and to make explicit the goals they pursue. This is not a task for the politicians themselves, but rather for those whose policies are in part awaiting their power. And intellectuals have an important role to play here. If the contempt of political power always represents a form of resignation which makes it play, it also contains something of the truth of politics and -volens nolens- refers to that face of disenchantment which is the one to be faced with every subsequent The elucidation of policy. 
+
+**Pierre Bourdieu**
