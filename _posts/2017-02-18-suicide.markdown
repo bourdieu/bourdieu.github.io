@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "The Suicide"
+subtitle:   " \"自杀\""
+date:       2017-01-28 12:00:00
+author:     "罗小布"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 对话布尔迪厄
+---
+
+Good morning Mr. Bourdieu, I would 
+
+like to know your thoughts on the suicide of our young people today. Also, having not read any of your books so far, do you have a reference to suggest me on this subject. Thanking you in advance.
+
+**Skippy**
+
+---
+
+Excuse me for answering you with such a delay. 
+
+For over a century, many have been sociological studies devoted to suicide. The most famous of these - that which opened the way to the rupture with the common sense - is evidently that of Emile Durkheim. It is currently on sale at PUF, Collection Quadrige n ° 19. The main point is that the frequency of suicide does not depend on the voluntary choices made by those who commit suicide, but on social determinations which, to their insuflence, incline to this end. Durkheim considered that the thinness of social (and familial) bonds was a factor that increased the propensity for suicide, and that a high rate of suicide was evidence of what he called an anomie, that is, a dysregulation social. 
+
+Despite the interest of reading Durkheim's reading or proofreading, one must take into account the fact that many subsequent studies on suicide have refined this approach. In addition, each new situation calls for a new study, and it would be risky to claim, at the outset of previous research, to account for current suicide phenomena. 
+
+None of my books deals specifically with suicide. If you want to prepare yourself to do a research on the subject, I suggest you read "The profession of sociologist" (written with Jean-Claude Passeron and Jean-Claude Chamboredon). You will find there - I hope - a methodological basis to "arm" the vigilance that must preside over any study of the social world. 
+
+**Pierre Bourdieu**
