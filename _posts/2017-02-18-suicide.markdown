@@ -4,14 +4,12 @@ title:      "The Suicide"
 subtitle:   " \"自杀\""
 date:       2017-01-28 12:00:00
 author:     "罗小布"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/in-post/bourdieu1.jpg"
 tags:
     - 对话布尔迪厄
 ---
 
-Good morning Mr. Bourdieu, I would 
-
-like to know your thoughts on the suicide of our young people today. Also, having not read any of your books so far, do you have a reference to suggest me on this subject. Thanking you in advance.
+Good morning Mr. Bourdieu, I would like to know your thoughts on the suicide of our young people today. Also, having not read any of your books so far, do you have a reference to suggest me on this subject. Thanking you in advance.
 
 **Skippy**
 
